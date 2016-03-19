@@ -1,5 +1,7 @@
 # Slacksocket
 
+[![Join the chat at https://gitter.im/vektorlab/slacksocket](https://badges.gitter.im/vektorlab/slacksocket.svg)](https://gitter.im/vektorlab/slacksocket?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Documentation Status](https://readthedocs.org/projects/slacksocket/badge/?version=latest)](http://slacksocket.readthedocs.org/en/latest/client/)
 
 Python interface to the Slack Real Time Messaging(RTM) API
